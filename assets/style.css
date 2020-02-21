@@ -9,3 +9,7 @@
     float: left;
     margin-right: 15px;
 }
+
+#contactHeader, #contactForm {
+    margin-top: 15px;
+}
