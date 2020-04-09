@@ -17,3 +17,11 @@
 #cards {
     margin-top: 15px;
 }
+
+body {
+    background-color: #c9d6df;
+}
+
+.card-body {
+    background-color: #f0f5f9;
+}
